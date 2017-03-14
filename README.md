@@ -1,1 +1,1 @@
-# Sebuah tulisan mengenai Swift di Medium
+# Selamat datang di Swift
