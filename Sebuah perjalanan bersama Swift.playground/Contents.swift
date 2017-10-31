@@ -45,7 +45,7 @@ let banyakBuah = "Saya memberikan \(0.5) buah segar kepada \(andi)."
 
 var daftarBahasaPemrograman = ["Swift", "Objective-C", "Javascript"]
 daftarBahasaPemrograman[0] // Swift
-var daftarKemampuanEngineer = ["Junior": "Swift", "Senior": "Swift, Objective-C", "Team Lead": "Swift, Objective-C, Javascript"]
+var daftarKemampuanEngineer = ["Junior": "Swift", "Senior": "Swift, Objective-C, Sense of ownership / belonging", "Team Lead": "Swift, Objective-C, Javascript, Managering, Social, Empathy, Ownership"]
 daftarKemampuanEngineer["Senior"] // Swift, Objective-C
 
 
